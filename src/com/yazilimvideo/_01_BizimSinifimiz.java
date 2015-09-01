@@ -14,12 +14,10 @@ public class _01_BizimSinifimiz {
 
 	public String getAdi() {
 		return adi;
-		// getler icine parametre almıyor 
 	}
 
 	public void setAdi(String adi) {
 		this.adi = adi;
-		//setler parametre alıyor ve this.adi = adi 
 	}
 
 	public String getSoyadi() {
